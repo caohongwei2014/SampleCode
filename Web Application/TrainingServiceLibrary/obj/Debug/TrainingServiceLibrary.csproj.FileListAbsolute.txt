@@ -1,0 +1,99 @@
+c:\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+c:\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+c:\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+c:\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+c:\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\yong\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\yong\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\yong\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\yong\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+C:\yong\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\yong\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\yong\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\yong\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\yong\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\yong\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\yong\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\yong\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+D:\study\study in conestoga college\computer applications development\semester2\project\implement\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April 1\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April 1\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April 1\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April 1\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April 1\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April1\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April1\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April1\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April1\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April1\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April2\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April2\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April2\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April2\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April2\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April2\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April3\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April3\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April3\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April3\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April3\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone Project-April3\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Hcao1-cc\Desktop\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\hongwei\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\hongwei\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\hongwei\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\hongwei\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\hongwei\Desktop\Capstone-April 7\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 8\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone-April 8\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 8\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 8\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 8\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 14-afternoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone-April 14-afternoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 14-afternoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 14-afternoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Hcao1-cc\Desktop\Capstone-April 14-afternoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 14-afternoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 15-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 16-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll.config
+C:\Users\Hcao1-cc\Desktop\Capstone-April 16-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 16-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\bin\Debug\TrainingServiceLibrary.pdb
+C:\Users\Hcao1-cc\Desktop\Capstone-April 16-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Hcao1-cc\Desktop\Capstone-April 16-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.dll
+C:\Users\Hcao1-cc\Desktop\Capstone-April 16-afterNoon\TrainingRegistrationForConestoga\TrainingServiceLibrary\obj\Debug\TrainingServiceLibrary.pdb
